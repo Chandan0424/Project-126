@@ -17,6 +17,6 @@ body{
     font-size:30;
 }
 canvas{
-    background-color: black;
-    border:5 5 5 white ridge
+    border:5px ridge white;
+    border-radius: 20px;
 }
